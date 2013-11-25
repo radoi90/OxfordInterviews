@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    /*
+    
     *   PAGE | Twitter 
     *   
     *   CONFIGURE FIRST
@@ -9,9 +9,9 @@ $(document).ready(function(){
     
     $('.twitterfeed').tweet({
         modpath: '../../plugins/twitter/',
-        username: 'TheGridelicious',
+        username: 'eculic17',
         count: 5
     });
     
-    */
+    
 });
