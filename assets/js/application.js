@@ -108,7 +108,7 @@ $(document).ready(function(){
         pager: false,
         controls: false,
         useCSS: false,
-        pause: 10000
+        pause: 5000
     });
     /*
     *   PAGE | WORK
