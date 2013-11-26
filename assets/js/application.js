@@ -26,7 +26,7 @@ $(document).ready(function(){
    
     // Carousel "Quote slider" initialization.
     $('#quote-slider').carousel({
-        interval: 20000
+        interval: 10000
     })
 
     //Scroll spy and scroll filter
@@ -148,20 +148,19 @@ $(document).ready(function(){
         onMixEnd: null
     });
     
-    /*
-    *   PAGE | Twitter 
+    
+    /**   PAGE | Twitter 
     *   
     *   CONFIGURE FIRST
     *
     *   Pull latest tweets from user.
-    *   Configuration: /plugins/twitter/index.php
+    *   Configuration: /plugins/twitter/index.php*/
     
     $('.twitterfeed').tweet({
         modpath: 'plugins/twitter/',
-        username: 'TheGridelicious',
+        username: 'eculic17',
         count: 3
     });
-    */
     
     //Prepare markup for twitter feed and carousel. Alow twitter to load. 1s, load time.
     setTimeout(function() {
