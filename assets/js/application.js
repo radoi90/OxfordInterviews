@@ -158,7 +158,7 @@ $(document).ready(function(){
     
     $('.twitterfeed').tweet({
         modpath: 'plugins/twitter/',
-        username: 'eculic17',
+        username: 'OxfInterviews',
         count: 3
     });
     
