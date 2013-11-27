@@ -10,12 +10,16 @@
 }
 
 .package .row_first {
-	height: 100px;
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
-	margin-top: 40px;
+	margin-top: 50px;
+	margin-bottom: 20px;
 	font-family: 'ChunkFiveRegular','Open Sans',sans-serif;
+}
+
+.package .row_second {
+	margin-top: 20px;
 }
 
 .package div {
