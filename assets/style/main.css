@@ -24,6 +24,15 @@
 	font-size: 12px;
 }
 
+#scroll-p {
+	font-size: 12px;
+	color: white;
+	position: absolute;
+	bottom: 0px;
+	margin-left: 48%;
+
+}
+
 .package-header .name{
 	float: left;
 }
