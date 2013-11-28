@@ -8,28 +8,39 @@
 	color: white;
 	width: 100%;
 	text-align: center;
+	padding: 40px 10px 10px 10px;
 }
 
-.package .row_first {
-	font-size: 30px;
-	font-weight: bold;
-	text-align: center;
-	font-family: 'ChunkFiveRegular','Open Sans',sans-serif;
+.package .logo {
+	margin-bottom: 15px;
 }
 
-.package .row_second {
-	margin-top: 20px;
-}
-
-.package div {
-	margin-top: 20px;
-	font-weight: bold;
-}
-
-.package .row_last {
-	height: 100px;
+.package p {
+	text-align: left;
+	margin-left: 20px;
 }
 
 .small-p {
 	font-size: 12px;
+}
+
+.package-header .name{
+	float: left;
+}
+
+.package-header .price{
+	float: right;
+}
+
+.paypal {
+	margin-top: 40px;
+}
+
+.paypal table {
+	float: right;
+	margin-left: 10px;
+}
+
+.paypal form {
+	float: right;
 }
