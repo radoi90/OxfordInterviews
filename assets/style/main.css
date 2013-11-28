@@ -29,3 +29,7 @@
 .package .row_last {
 	height: 100px;
 }
+
+.small-p {
+	font-size: 12px;
+}
