@@ -4,17 +4,16 @@
 }
 
 .package {
-	background-color: #404040 ;
+	background-color: #909090  ;
 	color: white;
 	width: 100%;
+	text-align: center;
 }
 
 .package .row_first {
 	font-size: 30px;
 	font-weight: bold;
 	text-align: center;
-	margin-top: 50px;
-	margin-bottom: 20px;
 	font-family: 'ChunkFiveRegular','Open Sans',sans-serif;
 }
 
@@ -23,7 +22,7 @@
 }
 
 .package div {
-	height: 40px;
+	margin-top: 20px;
 	font-weight: bold;
 }
 
