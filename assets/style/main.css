@@ -24,9 +24,7 @@
 	font-size: 12px;
 }
 
-#scroll-p {
-	font-size: 12px;
-	color: white;
+.scroll-caret {
 	position: absolute;
 	bottom: 0px;
 	margin-left: 48%;
