@@ -79,7 +79,7 @@ $(document).ready(function(){
     *   Main menu links
     *   Logo click on Welcome page
     */
-    $('#page-welcome .logo a').click(function(){
+    $('#page-welcome .scroll-down a').click(function(){
         $('html, body').animate({
             scrollTop: $( $.attr(this, 'href') ).offset().top - navigationHeight + 4
             
