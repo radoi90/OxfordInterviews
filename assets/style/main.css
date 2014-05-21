@@ -1,0 +1,58 @@
+.btn-services {
+	color: white;
+	vertical-align: bottom;
+}
+
+.img-circle {
+	width:280px;
+	height:280px;
+}
+
+.package {
+	background-color: #909090  ;
+	color: white;
+	width: 100%;
+	text-align: center;
+	padding: 40px 10px 10px 10px;
+}
+
+.package .logo {
+	margin-bottom: 15px;
+}
+
+.package p {
+	text-align: left;
+	margin-left: 20px;
+}
+
+.small-p {
+	font-size: 12px;
+}
+
+.scroll-caret {
+	position: absolute;
+	bottom: 0px;
+	margin-left: 48%;
+
+}
+
+.package-header .name{
+	float: left;
+}
+
+.package-header .price{
+	float: right;
+}
+
+.paypal {
+	margin-top: 40px;
+}
+
+.paypal table {
+	float: right;
+	margin-left: 10px;
+}
+
+.paypal form {
+	float: right;
+}
